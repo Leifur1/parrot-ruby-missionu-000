@@ -5,7 +5,7 @@ def parrot(string)
 
   def squawk(string)
     if string == nil
-      puts "Squawk!"
+      string == "Squawk!"
     end
   end
 
