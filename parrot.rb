@@ -3,7 +3,7 @@
 def parrot(string)
   puts "#{string}"
 
-  def squawk
+  def squawk(string)
     if string == nil
       puts "Squawk!"
     end
